@@ -7,7 +7,7 @@ This is a xk6 extension to help writing k6 scripts for Authgear.
 ## Build instructions
 
 1. Clone this repository.
-2. Follow the official guide to set things up.
+2. Follow the [official guide](https://k6.io/docs/extensions/get-started/create/javascript-extensions/) to set things up.
 3. Run `make build` in this repository to build a custom build of `k6`.
 
 ## How to use the prepared scripts
