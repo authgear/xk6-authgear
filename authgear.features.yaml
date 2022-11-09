@@ -1,0 +1,4 @@
+admin_api:
+  create_session_enabled: true
+rate_limit:
+  disabled: true
